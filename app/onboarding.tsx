@@ -73,7 +73,7 @@ const QUESTION_SEVEN_OPTIONS = [
 const ONBOARDING_QUESTIONS = [
   {
     id: 1,
-    question: 'What 3 words best describe the kind of person you want to be?',
+    question: 'What 3 words best describe the kind of persoon you want to be?',
     image: require('@/assets/illus/one.png'),
     color: '#F7F6F2',
     type: 'multipleChoice',
